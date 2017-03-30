@@ -1,9 +1,9 @@
 
 public class EngS20162 {
-	private String nome;
+	
+	private String Test;
 	
 	public static void main (String [] args) {
-		
-		System.out.println("Corinthians bi mundial FIFA 0:)");
+		System.out.println("Equipe: Diogo Santos e Vagner Silva");
 	}
 }
