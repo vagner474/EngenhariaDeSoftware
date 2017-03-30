@@ -4,6 +4,6 @@ public class EngS20162 {
 	
 	public static void main (String [] args) {
 		
-		System.out.println("Soberano maior que a galinhada! kkkkkkk")
+		System.out.println("Corinthians bi mundial FIFA 0:)");
 	}
 }
